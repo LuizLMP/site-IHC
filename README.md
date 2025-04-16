@@ -1,1 +1,1 @@
-Projeto universitário pelo professor no 1° semestre.
+Projeto universitário proposto pelo professor no 1° semestre.
